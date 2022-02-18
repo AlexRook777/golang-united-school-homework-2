@@ -9,10 +9,6 @@ import "math"
 // CalcSquare(10.0, SidesTriangle)
 // CalcSquare(10.0, SidesSquare)
 // CalcSquare(10.0, SidesCircle)
-//подобрал формулу  для треугольника) там сторона в степень 2 не возводится. Итоговая формула - (сторона * корень(3))/4
-//a*a*math.Sqrt(3)/4
-//короч с окружностью просто на 2 разделить
-//а квадрат это а*a
 
 type myType int
 
